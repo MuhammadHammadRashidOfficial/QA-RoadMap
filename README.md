@@ -29,9 +29,6 @@ You can view the documentation to the roadmap here. [Roadmap to become a QA Engi
 ## Assessment
 Once you have completed the roadmap and are confident enough, feel free to attempt a simple assessment that I have uploaded. You can access the assessment here: [QA Assessment](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/Assessment.pdf)
 
-## Articles
-I write articles and blogs on Medium as well. You can view them here. [My Articles](https://medium.com/@hammad.rashid_73904)
-
 ## Advice
 Here are a few suggestions for those who wish to excel in this field.
 
@@ -41,4 +38,3 @@ Here are a few suggestions for those who wish to excel in this field.
 - **"Slow and steady wins the race."** Utilize your time in understanding the concepts instead of completing the journey.
   
 ### Happy Learning! 😊
-
